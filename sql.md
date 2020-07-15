@@ -17,8 +17,7 @@ Level 1: Beginner
 1.2 Getting Started with PostgreSQL
 -----------------------------------
 
--   Draw a diagram explaining how a Postgresql server/database relates
-    to your computer
+-   Draw a diagram explaining how a PostgreSQL server is structured
 -   Install PostgreSQL
 -   Create a database superuser
 -   Create a database
@@ -87,7 +86,7 @@ Level 2: Intermediate
 2.2 Data Modeling
 -----------------
 
--   Add FOREIGN KEY constraint to
+-   Add FOREIGN KEY constraint to a table
 -   Create a PRIMARY KEY over two columns
 -   Explain three different cardinalities two tables can have
 -   Draw an ER-diagram for your database

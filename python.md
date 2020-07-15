@@ -31,6 +31,7 @@
 * store data in a list
 * create data with `range()`
 * examine the length of a list
+* index lists
 * sort and slice lists
 * draw a bar plot
 
@@ -45,6 +46,7 @@
 ### 1.6 Conditions
 
 * write `if..elif..else` statements
+* count items in a list by a condition
 * filter a list by a condition
 * combine comparison operators with boolean logic
 * modify every second entry of a list
@@ -72,7 +74,7 @@
 
 ### 2.2 Loops
 
-* transform list items into a new list of the same size
+* transform a list by applying a function on every item
 * search in a list using a `while` loop
 * use a boolean state variable to end a `while` loop
 * recognize whether a `while` loop will terminate or not
