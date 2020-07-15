@@ -1,4 +1,7 @@
-# Learning Bash Command Line: Checklist
+
+![](path_penguin.png)
+
+# Learning Path: The Command Line
 
 Level 1: Beginner
 =================

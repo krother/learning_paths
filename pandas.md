@@ -1,5 +1,7 @@
 
-# Data Analysis - the Path of the Panda
+![](path_panda.png)
+
+# Learning Path: Data Analysis
 
 ## 1. Beginner
 
