@@ -1,5 +1,7 @@
 
-# Version Control – the Path of the Octocat
+![](path_octocat.png)
+
+# Learning Path: Version Control with Git
 
 ## Beginner
 

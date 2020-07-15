@@ -1,5 +1,7 @@
 
-# Machine Learning
+![](path_matrix.png)
+
+# Learning Path: Machine Learning
 
 Logistic Regression
 Linear Regression
