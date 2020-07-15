@@ -1,5 +1,7 @@
 
-# Learning PostgreSQL: Checklist
+![](path_elephant.png)
+
+# Learning Path: PostgreSQL
 
 Level 1: Beginner
 =================

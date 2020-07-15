@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1150.4567"
+   height="500"
+   id="svg3024"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="path_serpent.svg"
+   inkscape:export-filename="/home/kristian/projects/learning_paths/path_export.png"
+   inkscape:export-xdpi="100.032"
+   inkscape:export-ydpi="100.032">
+  <defs
+     id="defs3">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3085"
+       is_visible="true"
+       pattern="m 331.55411,363.8826 h 1"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3074"
+       is_visible="true"
+       pattern="M 0,0 H 1"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3882"
+       is_visible="true"
+       pattern="M 0,0 H 1"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3068">
+      <rect
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3070"
+         width="745.60602"
+         height="157.33781"
+         x="-2.7488632"
+         y="-2.1184909"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3072">
+      <rect
+         clip-path="none"
+         y="895.31543"
+         x="-1.3202919"
+         height="157.33781"
+         width="745.60602"
+         id="rect3074"
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3078">
+      <rect
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3080"
+         width="695.85852"
+         height="1000.1765"
+         x="-1.3202919"
+         y="-0.68991953" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3057">
+      <rect
+         style="opacity:0.9;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3059"
+         width="340.00003"
+         height="78.571434"
+         x="38.571438"
+         y="16.505043" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath250">
+      <ellipse
+         style="opacity:1;fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse252"
+         cx="130.20093"
+         cy="1031.1595"
+         rx="42.997601"
+         ry="42.997608" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.964882"
+     inkscape:cx="550.0928"
+     inkscape:cy="90.949076"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true"
+     units="px"
+     showguides="false" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-622.51971)">
+    <path
+       sodipodi:nodetypes="sssssssccss"
+       inkscape:connector-curvature="0"
+       id="rect4567"
+       d="m 597.55142,888.06943 h 468.61208 c 26.2021,0 47.2961,-21.09408 47.2961,-47.29615 V 740.76424 c 0,-26.20207 -21.094,-47.29616 -47.2961,-47.29616 H 597.55142 c -26.20205,0 -24.79384,33.87249 -47.29614,47.29616 l -81.42858,1.93811 81.42858,66.63782 v 31.43311 c 0,26.20207 21.09409,47.29615 47.29614,47.29615 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4555"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(125.53957,494.12088)"><flowRegion
+         id="flowRegion4557"
+         style="font-family:sans-serif"><rect
+           id="rect4559"
+           width="600.37054"
+           height="130.80252"
+           x="467.14285"
+           y="243.79076"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara4561"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:Mallige;-inkscape-font-specification:'Mallige Italic'">Python:</flowPara><flowPara
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:Mallige;-inkscape-font-specification:'Mallige Italic'"
+         id="flowPara147" /><flowPara
+         id="flowPara4565"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.33333588px;line-height:1.25;font-family:Mallige;-inkscape-font-specification:'Mallige Italic'">the path of the serpent</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="317.1879"
+       y="264.44321"
+       id="text3147"><tspan
+         sodipodi:role="line"
+         id="tspan3149"
+         x="317.1879"
+         y="264.44321"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan><tspan
+         sodipodi:role="line"
+         id="tspan3151"
+         x="317.1879"
+         y="314.44321"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan></text>
+    <circle
+       r="46.400379"
+       cy="973.84497"
+       cx="255.66933"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5"
+       id="path3088"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <circle
+       r="46.400379"
+       cy="832.91943"
+       cx="377.25916"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5"
+       id="path3872"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <flowRoot
+       transform="translate(-104.30651,477.00234)"
+       xml:space="preserve"
+       id="flowRoot3807"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3809"
+         style="font-family:sans-serif"><rect
+           id="rect3811"
+           width="454.56863"
+           height="143.44167"
+           x="155.56349"
+           y="628.09808"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara3813"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <use
+       style="stroke:#ffffff;stroke-width:1.5"
+       height="1052.3622"
+       width="744.09448"
+       transform="matrix(-1,0,0,1,511.53326,7.5e-6)"
+       id="use3863"
+       xlink:href="#path3035"
+       y="0"
+       x="0"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3861"
+       d="M 135.90505,1035.1179 41.889789,969.66191 135.90505,1067.5811 Z"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 4.5;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.5"
+       d="m 229.41396,973.84501 c 0,51.74919 -41.95102,93.70029 -93.70025,93.70029 -51.749231,0 -93.700251,-41.9511 -93.700251,-93.70029 0,-51.7493 41.95102,-93.7003 93.700251,-93.7003 51.74923,0 93.70025,41.951 93.70025,93.7003 z"
+       id="path3007"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3033"
+       width="119.47954"
+       height="46.237"
+       x="136.04906"
+       y="1021.2002"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.90505,1021.3527 c -55.352101,1.32 -94.276231,-92.75629 -94.015261,-56.34039 0.40324,56.26789 39.75613,103.18949 94.015261,102.56879 z"
+       id="path3035"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3007"
+       id="use4041"
+       transform="translate(239.91123,-7.5e-6)"
+       width="744.09448"
+       height="1052.3622"
+       style="stroke:#ffffff;stroke-width:1.5"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3007"
+       id="use4044"
+       transform="translate(-4.1601562e-7,-140.92551)"
+       width="744.09448"
+       height="1052.3622"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3007"
+       id="use4046"
+       transform="translate(239.91123,-140.92076)"
+       width="744.09448"
+       height="1052.3622"
+       style="fill:#ffcc00;stroke:#ffffff;stroke-width:1.5"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 255.66931,657.41469 V 1099.8615"
+       id="path4050"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4050"
+       id="use4054"
+       transform="translate(-119.9556,-7.5e-6)"
+       width="744.09448"
+       height="1052.3622"
+       style="stroke:#ffffff;stroke-width:1.5"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4054"
+       id="use4056"
+       transform="translate(239.91123,1.5152225)"
+       width="744.09448"
+       height="1052.3622"
+       style="stroke:#ffffff;stroke-width:1.5"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect3033"
+       id="use4058"
+       transform="translate(119.95563,-7.5e-6)"
+       width="744.09448"
+       height="1052.3622"
+       style="stroke:#ffffff;stroke-width:1.5"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect3033"
+       id="use4060"
+       transform="translate(9.5839844e-6,-140.96143)"
+       width="744.09448"
+       height="1052.3622"
+       style="stroke:#ffffff;stroke-width:1.5"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4060"
+       id="use4062"
+       transform="translate(119.76097,-7.5e-6)"
+       width="744.09448"
+       height="1052.3622"
+       style="stroke:#ffffff;stroke-width:1.5"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3035"
+       id="use4076"
+       transform="matrix(-1,0,0,1,511.53326,-7.5e-6)"
+       width="744.09448"
+       height="1052.3622"
+       style="stroke:#ffffff;stroke-width:1.5"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <rect
+       transform="scale(-1,1)"
+       y="721.28772"
+       x="-375.55103"
+       height="49.39732"
+       width="94.114601"
+       id="use4082"
+       style="fill:none;stroke:#ffffff;stroke-width:1.64023507;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.64023508, 4.92070524;stroke-dashoffset:0"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:1.64948678;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.64948674, 4.94846024;stroke-dashoffset:0"
+       id="rect3840"
+       width="94.114601"
+       height="49.956139"
+       x="-229.40208"
+       y="722.74921"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 4.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 375.62821,1035.1179 94.01526,-65.45599 -94.01526,97.91919 z"
+       id="path3867"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       inkscape:export-ydpi="90.156242"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:connector-curvature="0"
+       id="path3078"
+       d="M 476.89272,926.61971 H 34.445909"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="46.400379"
+       cy="973.84497"
+       cx="135.71371"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5"
+       id="path3981"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 476.89272,974.59471 H 34.445909"
+       id="path3080"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <circle
+       r="46.400379"
+       cy="973.84497"
+       cx="375.62491"
+       inkscape:export-ydpi="90.156242"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       id="path3983"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5" />
+    <path
+       inkscape:export-ydpi="90.156242"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:connector-curvature="0"
+       id="path3082"
+       d="M 476.89272,1021.0697 H 34.445909"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="46.400379"
+       cy="926.61975"
+       cx="255.66933"
+       inkscape:export-ydpi="90.156242"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       id="path3086"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5" />
+    <circle
+       r="46.400379"
+       cy="1021.0697"
+       cx="255.66933"
+       inkscape:export-ydpi="90.156242"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       id="path3090"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5" />
+    <circle
+       r="46.400379"
+       cy="832.91943"
+       cx="135.71371"
+       inkscape:export-ydpi="90.156242"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       id="path3870"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 476.89272,788.64051 H 34.445909"
+       id="path3960"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <circle
+       r="46.400379"
+       cy="832.92419"
+       cx="375.62491"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5"
+       id="path3956"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       id="rect3897"
+       style="fill:#2a7fff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0"
+       d="m 136.04905,1021.2001 h 119.47952 v 46.2371 l -120.15627,-0.1526 m 0.67675,-46.0845 c -55.352101,1.32 -92.845651,-92.58099 -94.159261,-56.18779 -2.12214,58.79329 36.19292,103.39799 93.482511,102.27229"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsc"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 341.09974,722.72109 c -3.81881,-0.0621 -7.42632,0.51717 -10.21875,2.125 -8.13123,5.1565 -7.7201,14.13031 -15.875,19.5625 -14.32218,7.88863 -24.08965,1.76035 -34.46875,13 -1.9525,5.8746 -1.84782,11.72095 0,17.4375 1.84782,5.71655 0.68408,7.50798 9.875,11.71872 9.19091,4.2108 84.25,0 84.25,0 0.32089,-0.01 0.64629,-0.031 0.96875,-0.031 25.62622,0 46.40625,20.7488 46.40625,46.375 0,25.6262 -20.78003,46.4063 -46.40625,46.4063 -0.32246,0 -0.64786,-0.025 -0.96875,-0.031 v 0.031 H 255.19349 v 47.4687 h 116.40625 c 1.33401,0.056 2.68343,0.094 4.03125,0.094 51.89078,0 93.96875,-42.0779 93.96875,-93.9687 0,-51.8908 -42.07797,-93.93752 -93.96875,-93.93752 -0.32219,0 -0.64733,-0.003 -0.96875,0 -0.0431,-0.0499 -5.26271,-6.01744 -11.4375,-10.03125 -4.26289,-2.77102 -13.72362,-6.08215 -22.125,-6.21875 z"
+       id="path3958"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.25026155px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 340.20414,749.47634 c -2.57942,-11.41067 4.23067,-14.08901 13.53324,-10.80583 -1.62343,6.59471 -6.10651,11.23251 -13.53324,10.80583 z"
+       id="path3045"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:2"
+       d="m 466.13099,956.47111 c -0.13385,0 -0.26479,0.012 -0.40625,0.031 -10.90495,1.4715 -44.41154,65.78059 -90.25,64.68749 l -119.3125,-3e-4 v -46.53099 c -0.083,-4e-4 -0.16685,0 -0.25,0 -25.62622,0 -46.40625,20.7801 -46.40625,46.40629 0,25.6262 20.78003,46.4063 46.40625,46.4063 0.0831,0 0.16696,4e-4 0.25,0 v -0.031 h 119.3125 c 57.28959,1.1257 96.15339,-43.8005 94.03125,-102.59379 -0.21167,-5.8642 -1.36732,-8.3407 -3.375,-8.375 z"
+       id="path3918"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccssscccsc"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:#2a7fff;fill-opacity:1;stroke:#000000;stroke-width:2"
+       d="m 255.66224,927.18981 c -25.51156,0.1343 -46.15625,20.8632 -46.15625,46.4063 0,25.3732 20.3793,47.18869 45.65625,47.59339 h 46.65625 c 0,-8.495 -2.28282,-17.8306 -10.149,-34.29799 -7.86617,-16.4675 -21.13672,-16.6736 -21.13672,-40.8713 -14.09672,-12.8527 -14.87053,-18.8304 -14.87053,-18.8304 z"
+       id="path3939"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccc"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3945"
+       d="m 295.5952,996.37531 c 3.95839,-6.8318 6.22449,-14.7658 6.22449,-23.2284 0,-25.543 -20.64469,-46.272 -46.15625,-46.4062 v -47.2188 c -0.083,-4e-4 -0.16685,0 -0.25,0 -25.62622,0 -46.40625,20.7801 -46.40625,46.4063 0,25.542 20.64645,46.2287 46.15625,46.4062 0.86207,0.01 0,0 4.9988,0.2304 24.10894,0.4902 33.63111,19.2419 35.43296,23.8105"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:2"
+       sodipodi:nodetypes="csccssscc"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:#2a7fff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 169.25599,722.65859 c -8.40138,0.1366 -17.86211,3.47898 -22.125,6.25 -6.20057,4.03057 -11.40625,10.0625 -11.40625,10.0625 -51.890781,0 -93.968751,42.04672 -93.968751,93.93752 0,51.8908 42.07797,93.9687 93.968751,93.9687 1.30271,0 2.58522,-0.041 3.875,-0.094 h 113.90625 c 28.62587,-1.0363 41.35104,22.2782 42.34375,23.75 4.19637,-6.9769 6.625,-15.1419 6.625,-23.875 0,-25.6262 -21.65503,-47.3437 -47.28125,-47.3437 H 135.72474 v 0.9375 h -0.0625 v -0.9375 c -25.59719,-0.034 -46.343751,-20.8012 -46.343751,-46.4063 0,-25.6052 20.746561,-46.341 46.343751,-46.375 h 0.0625 c 0,0 75.05909,4.2108 84.25,0 9.19092,-4.21079 7.99593,-6.00222 9.84375,-11.71877 1.84782,-5.71655 1.9525,-11.5629 0,-17.4375 -10.3791,-11.23965 -20.14657,-5.11137 -34.46875,-13 -8.1549,-5.43219 -7.74377,-14.406 -15.875,-19.5625 -2.79242,-1.60783 -6.39994,-2.21834 -10.21875,-2.15625 z"
+       id="path3891"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscsscccssccccsccsscccs"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 228.39193,776.74598 c -11.42538,-1.19233 -20.37312,2.27982 -35.41142,-5.71429"
+       id="path3049"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-ydpi="90.156242" />
+    <path
+       inkscape:export-ydpi="90.156242"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3964"
+       d="m 281.43644,776.74598 c 11.42538,-1.19233 20.37312,2.27982 35.41142,-5.71429"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90.156242"
+       inkscape:export-xdpi="90.156242"
+       inkscape:export-filename="/home/krother/Desktop/Software_Engineering_for_Scientists/logopng.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3987"
+       d="m 170.34894,749.47634 c 2.57942,-11.41067 -4.23067,-14.08901 -13.53324,-10.80583 1.62343,6.59471 6.10651,11.23251 13.53324,10.80583 z"
+       style="fill:#000000;stroke:#000000;stroke-width:1.25026155px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

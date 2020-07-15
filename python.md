@@ -1,4 +1,7 @@
-# Python – the Path of the Serpent
+
+![](path_serpent.png)
+
+# Learning Path: Python
 
 ## 1 First Steps
 
