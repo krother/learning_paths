@@ -59,6 +59,7 @@
 * train a Logistic Regression classification model
 * interpret model parameters and metrics
 * explain the log loss function
+* enumerate differences between Logistic and Linear Regression
 * calculate entropy of a variable
 * calculate mutual information of two variables
 * draw a decision boundary
