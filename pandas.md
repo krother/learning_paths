@@ -11,6 +11,8 @@
 * load data from Excel files
 * retrieve CSV data from a URL
 
+### Selecting Rows and Columns
+
 ### 1.2 Data Wrangling
 
 * round values in a column to two digits
