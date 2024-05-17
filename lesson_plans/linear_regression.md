@@ -13,9 +13,12 @@ Students calculate a line of best fit.
 * linear equation
 * slope
 * intercept
+* mean absolute error
 * mean squared error
 
 ## Warmup:
+
+* Wordle
 
 ## Content Delivery:
 
