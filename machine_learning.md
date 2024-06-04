@@ -10,9 +10,7 @@
 * distinguish classification and regression
 * enumerate some Machine Learning methods
 * draw the Machine Learning pyramid
-* draw the data science venn diagram
-* draw the Machine Learning venn diagram
-* name prerequisites of Machine Learning
+* draw the Data Science Venn diagram
 * name advantages of Machine Learning over normal programming
 * enumerate applications of Machine Learning
 * describe a typical workflow of a Machine Learning project
@@ -29,23 +27,25 @@
 ## Feature Engineering
 
 * distinguish MinMax scaling and standard scaling
-* enumerate imputation strategies
 * apply scaling
+* enumerate a few imputation strategies
 * apply one-hot encoding
-* add binary features (e.g. for missing data)
+* apply factorization of a categorical column
 * apply target mean encoding
+* add binary features (e.g. for missing data)
 * apply binning
+* convert time stamps into useful features
 * implement a scikit ColumnTransformer
 * implement a scikit-learn pipeline
 
 ## Linear Regression
 
 * train a linear model with a single coefficient
-* train a linear model with a single coefficient and bias
+* train a linear model with a single coefficient and intercept
 * train a linear model with multiple coefficients
 * explain what a hyperplane is
 * explain multiple Linear Regression
-* explain the least squares method
+* explain the least squares method / MSE
 * plot coefficients of a Linear Model
 * define the Gauss-Markov Theorem
 * enumerate assumptions of Linear Regression
@@ -60,9 +60,8 @@
 * interpret model parameters and metrics
 * explain the log loss function
 * enumerate differences between Logistic and Linear Regression
-* calculate entropy of a variable
-* calculate mutual information of two variables
 * draw a decision boundary
+* explain class imbalance
 
 ## Gradient Descent
 
@@ -96,8 +95,8 @@
 * explain underfitting
 * explain the bias-variance tradeoff
 * define Ridge regression
-* explain why scaling is important in ridge
-* train a ridge and lasso model
+* explain why scaling is important in Ridge
+* train a Ridge and Lasso model
 
 
 ## Tree-based models
@@ -105,13 +104,11 @@
 * train a decision tree
 * Plot a decision tree
 * train a Random Forest
-* define a Voting Classifier
 * name parameters and hyperparameters of tree-based models 
 * explain regularization strategies for tree-based models
 * describe the CART algorithm
 * explain the GINI score
 * apply Gradient Boosting
-* distinguish bagging and boosting
 * interpret a model with SMOTE
 
 ## Time Series Forecasting
@@ -129,15 +126,13 @@
 
 ## Text Processing
 
-* Bag of Words
-* TF-IDF
-* tokenize text corpus
+* explain Bag of Words
+* tokenize a text corpus
 * remove stop words
 * POS tagging
-* lemmatization/stemming
-* Word Vectors
+* apply lemmatization/stemming
+* calculate Word Vectors
 * caclulate word vector similarity
-* train a Naive Bayes model
 
 ## Model Optimization
 
@@ -162,6 +157,7 @@
 
 * enumerate a few unsupervised learning methods and their applications
 * calculate Cosine Similarity
+* calculate Jaccard Similarity or Tanimoto
 * apply Item-based and User-based Collaborative Filtering
 * apply Non-negative Matrix Factorization
 
