@@ -34,21 +34,21 @@ Students calculate measures of centrality and dispersion from data
 
 ## Lesson Plan
 
-====== ========================================================= ======
-step   activity                                                  time
-====== ========================================================= ======
-1.     introduction ball game                                     5'
-2.     front matter: introductions, rules                        10'
-3.     warmup: Data Portrait                                     10'
-4.     collect student data in a spreadsheet                     10'
-5.     groups research one of the 6 metrics each                 10'
-6.     groups report on the board
-7.     discuss tricky cases
-8.     draw plots on the board
-       *break*
-9.     exercises with Python
-10.    cooldown: Brainstorm words                                10'
-====== ========================================================= ======
+| step |  activity                                          |  time   |
+|------|----------------------------------------------------|---------|
+| 1.   | introduction ball game                             |      5' |
+| 2.   | front matter: introductions, rules                 |     10' |
+| 3.   | warmup: Data Portrait                              |     10' |
+| 4.   | collect student data in a spreadsheet              |     15' |
+| 5.   | groups research one of the 6 metrics each          |     10' |
+| 6.   | groups report on the board                         |     20' |
+|      | *break*                                            |         |
+| 7.   | discuss tricky cases                               |     15' |
+| 8.   | draw plots on the board                            |     10' |
+|      | Python setup
+|      | *break*                                            |         |
+| 9.   | exercises with Python                              |     60' |
+| 10.  | cooldown: Brainstorm words                         |     10' |
 
 ### 1. Introduction Ball Game
 
