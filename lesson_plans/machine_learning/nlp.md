@@ -7,6 +7,13 @@
 - Students compare word vectors
 - Students find similar documents using Cosine similarity
 
+## Key Concepts
+
+- Bag of Words
+- Word Vectors
+- Document vectors / Embeddings
+- Search with Cosine Similarity
+
 ## Suggested Actions
 
 **Part 1: Warming up**
