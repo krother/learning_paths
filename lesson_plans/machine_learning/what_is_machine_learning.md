@@ -146,7 +146,37 @@ You should see that the Decision tree does overfit easily, but the Random Forest
 
 https://github.com/krother/machine_learning/blob/main/solutions/random_forest.ipynb
 
-### 13. wrap-up quiz questions
+### 13. Extras for the Scikit Notebook:
+
+Here are a few things that you might cover while working on the penguin notebook. Consider them optional:
+
+### 13.1 Exploratory Data Analysis (EDA): 
+
+The penguin dataset is nicely plottable. There are plenty of things you can plot without a lot of code to assess whether training a ML model has any chance of success. E.g.:
+
+- correlation heatmap
+- scatterplot of two metrics, colored by species (use seaborn!)
+- sns.pair_plot()
+
+### 13.2 Logistic Regression
+
+A nice demonstration of what scikit is capable of is to swap the Random Forest Classifier by Logistic Regression, retrain and compare scores. You can add any amount of theory, e.g.:
+
+- the logistic function
+- what is a decision boundary (siple diagram on the board)
+- why LogReg works worse (linear model, requires feature engineering)
+- play with the regularization parameter C (modify by a factor of 10, 100, 1000 in both directions)
+
+### 13.3 Linear Regression
+
+If you want, you can solve a regression problem instead: predict body mass from the other parameters.
+It is tricky; to work well you may need to one-hot encode the species.
+
+Note that your model will calculate an R² score. Compare MSE or MAE as well.
+
+Apart from that, covering the equation for LinReg with multiple parameters is enough to cover.
+
+### 14. wrap-up quiz questions
 
 Take the MC-questions in the fundamentals chapter.
 We might want to complement them with 3-4 more about trees & forests.

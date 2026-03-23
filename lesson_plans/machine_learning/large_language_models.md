@@ -22,10 +22,23 @@ Participants train and evaluate microgpt, a pocket-size LLM.
 
 *"LLMs convert tokens to embeddings and embeddings to tokens"*
 
-## Warmup:
+## Warmup
+
+Explain the exercise:
+
+    "You are an LLM. Your job is to predict the next word. Each of you predicts one word, then it is the next persons turn and so on. We start with <person> and end with <other person>".
+
+Write a prompt to the board:
+
+    "once upon a time ..."
+
+point to whose turn it is and see what happens. It is not necessary to write down the result.
+
+## Exercise 1: Train MicroGPT
 
 - give microgpt code to participants
 - ask them to run it (including the helper script to download the data)
+- make some name predictions
 - insert some print statements to check the internal states (parameter arrays, loss function during training, output prog)
 - prepare a few questions
 

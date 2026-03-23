@@ -16,10 +16,7 @@ f) go through 5 exam questions
 
 ### 1. Machine Learning Fundamentals
 
-- EDA
-- What is Machine Learning
-- Random Forest
-- LinReg / LogR
+- [what_is_machine_learning.md](what_is_machine_learning.md)
 
 
 ### 2. LLMs
@@ -44,17 +41,14 @@ f) go through 5 exam questions
 
 ### 5. CNN
 
-- CNN Kernels
-- Fashion MNIST with CNN
-- Pretrained Models
+- [convolutional_networks.md](convolutional_networks.md)
+- [pretrained_networks.md](pretrained_networks.md)
 
 ### 6. Backpropagation
 
-- microgpt
-- Gradient Descent
-- Backpropagation step
-- transformers
-- Interpreting learning curves
+- [backpropagation.md](backpropagation.md)
+- [large_language_models.md](large_language_models.md)
+- [Interpreting learning curves](https://github.com/krother/machine_learning/tree/main/classroom_exercises/learning_curves)  - good backup/filler exercise
 
 ### 7. Model Evaluation
 
