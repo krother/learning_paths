@@ -7,10 +7,10 @@
 
 ###  1.1 Installation
 
-* install Anaconda
-* start Spyder
+* install Python
+* start VS Code
 * create a `.py` file
-* use keyboard shortcuts
+* use keyboard shortcuts in VS Code
 * know where the official Python documentation is
 
 ### 1.2 Hello World
@@ -36,7 +36,6 @@
 * examine the length of a list
 * index lists
 * sort and slice lists
-* draw a bar plot
 
 ### 1.5 Loops
 
@@ -124,7 +123,7 @@
 ### 2.7 Python
 
 * distinguish built-in functions and methods
-* identify 24 built-in functions
+* name 20 built-in functions
 * install a package with `pip` or `conda`
 * inspect which packages are installed
 * name 5 built-in modules
@@ -174,11 +173,12 @@
 
 * use version control
 * write a command line interface
-* use the variable explorer (in Spyder)
 * use a PEP8 style checker
 * highlight PEP8 in your editor
+* run black
+* use a type checker
 * use introspection functions
-* use virtual environments
+* use virtual environments with uv
 * write simple automated tests
 
 ### 3.4 Programming Concepts
@@ -188,7 +188,6 @@
 * explain what reference counting is
 * implement an algorithm from pseudocode
 * set the PYTHONPATH environment variable
-* know differences between Python 2 and 3
 * create sample output to guide writing of a program
 * draw diagrams to guide the implementation (flowcharts, state diagrams, data flow diagrams etc.)
 
@@ -211,6 +210,7 @@ Solid working knowledge in a few of the following areas, including the according
 ### 3.6 Debugging
 
 * use an interactive debugger
+* set breakpoints
 * use `try.. except` statements
 * use validity checks / defensive assertions
 * describe possible errors resulting from a badly configured environment
